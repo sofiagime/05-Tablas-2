@@ -1,0 +1,74 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+    background-image: url(https://fondosmil.com/fondo/36779.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1,
+h3,
+p {
+    color: #beb8b8
+}
+
+td,tr {
+    color: rgb(255, 255, 255);
+    padding: 10px 20px 10px 20px;
+    border-bottom: 2px solid rgb(12, 12, 12);
+    text-align: center;
+}
+
+table {
+    background-color: rgb(44, 32, 151);
+    color: rgb(50, 47, 224);
+    border: 9px solid rgb(90, 90, 204);
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0 auto;
+    background-image: url(https://i.pinimg.com/736x/fd/1c/a7/fd1ca7d83c7c246816adf3b6452ce5c5.jpg);
+    text-shadow: 30;
+    padding: 5em;
+}
+
+tr:nth-child(even) {
+  
+    color: antiquewhite;
+}
+
+tr:hover {
+    background-color: rgb(104, 145, 180);
+    color: rgb(143, 195, 241);
+}
+
+#redes{
+text-align: center;
+list-style: none;
+}
+#redes li{
+    display: inline-block;
+    padding: 30px;
+}
+p{
+    text-align: center;
+    color: rgb(253, 253, 253);
+}
+
+a{
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    display: i ;
+    color: white;
+} 
+#nombre{
+    padding: 10px 700px 10px 0px;
+    text-align: center
+}
+h1,h2,h3{
+   color: #beb8b8;
+}
