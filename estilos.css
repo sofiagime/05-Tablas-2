@@ -6,8 +6,6 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    max-width: 600px;
-    margin: 0 auto;
 }
 
 h1,
@@ -33,6 +31,7 @@ table {
     background-image: url(https://i.pinimg.com/736x/fd/1c/a7/fd1ca7d83c7c246816adf3b6452ce5c5.jpg);
     text-shadow: 30;
     padding: 5em;
+    max-width: 1200px;
 }
 
 tr:nth-child(even) {
@@ -66,7 +65,7 @@ a{
     color: white;
 } 
 #nombre{
-    padding: 10px 700px 10px 0px;
+    padding: 10px 10px 10px 0px;
     text-align: center
 }
 h1,h2,h3{
